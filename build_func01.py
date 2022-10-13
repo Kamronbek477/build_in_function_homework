@@ -3,6 +3,5 @@
 # Find the absolute value of a "number" and assign to  "answer" 
 
 # Print the answer
-number = -8
-a = -(number)
-print(a)      
+
+print(abs(-8))      
