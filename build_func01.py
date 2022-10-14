@@ -4,4 +4,5 @@
 
 # Print the answer
 number=-8
-print(abs(number))      
+answer = abs(number)
+print(answer)      
